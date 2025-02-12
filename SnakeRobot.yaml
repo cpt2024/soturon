@@ -37,7 +37,7 @@ environment_parameters:
           measure: reward
           behavior: SnakeRobot
           min_lesson_length: 100
-          threshold: 0.94
+          threshold: 0.9
         value: 1.0
         
       - name: stage2
